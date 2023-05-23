@@ -24,6 +24,11 @@ export default {
           title: 'Credit to the Creator or Owner of the Image',
           type: 'string',
         },
+        {
+          name: 'link',
+          title: 'Link to Partners Website (URL)',
+          type: 'string',
+        },
     ],
     preview: {
         select: {

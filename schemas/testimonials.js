@@ -1,15 +1,14 @@
-
-import { MdRateReview as icon } from 'react-icons/md';
+import { TiDocumentText as icon } from 'react-icons/ti';
 
 export default {
-  name: 'reviews',
-  title: 'Review Carousel',
+  name: 'testimonials',
+  title: 'Testimonial Quotes',
   type: 'document',
   icon,
   fields: [
-    {
-      name: 'name',
-      title: 'Name',
+    { 
+      name: 'name', 
+      title: 'Name', 
       type: 'string',
     },
     { 
@@ -22,7 +21,6 @@ export default {
   preview: {
     select: {
       title: 'name',
-      subtitle: 'quote',
     },
   },
-}
+};
