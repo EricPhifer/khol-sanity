@@ -6,6 +6,7 @@ import about from "./about";
 import social from "./social";
 import donate from "./donate";
 import partners from "./partners";
+import testimonials from "./testimonials";
 import pastevents from "./pastevents";
 // Privacy and Terms
 import privacypolicy from "./privacypolicy";
@@ -22,6 +23,7 @@ export const schemaTypes = [
     social,
     donate,
     partners,
+    testimonials,
     pastevents,
     // Privacy and Terms
     privacypolicy,
