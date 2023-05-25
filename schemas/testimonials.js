@@ -1,4 +1,4 @@
-import { TiDocumentText as icon } from 'react-icons/ti';
+import { RiChatQuoteLine as icon } from 'react-icons/ri';
 
 export default {
   name: 'testimonials',

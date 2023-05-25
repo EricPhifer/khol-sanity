@@ -1,4 +1,4 @@
-import { IoLogoMarkdown as icon } from 'react-icons/io';
+import { MdHandshake as icon } from 'react-icons/md';
 
 export default {
     name: 'partners',

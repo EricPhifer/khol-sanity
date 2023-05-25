@@ -35,24 +35,24 @@ export default {
           title: 'Credit to the Creator or Owner of the Image',
           type: 'string',
         },
-        {
-            name: 'footerone',
-            title: 'First Hero Footer',
-            type: 'string',
-            description: 'The three most important or highest draw points about your business to your customers',
-        },
-        {
-            name: 'footertwo',
-            title: 'Second Hero Footer',
-            type: 'string',
-            description: 'The three most important or highest draw points about your business to your customers',
-        },
-        {
-            name: 'footerthree',
-            title: 'Third Hero Footer',
-            type: 'string',
-            description: 'The three most important or highest draw points about your business to your customers',
-        },
+        // {
+        //     name: 'footerone',
+        //     title: 'First Hero Footer',
+        //     type: 'string',
+        //     description: 'The three most important or highest draw points about your business to your customers',
+        // },
+        // {
+        //     name: 'footertwo',
+        //     title: 'Second Hero Footer',
+        //     type: 'string',
+        //     description: 'The three most important or highest draw points about your business to your customers',
+        // },
+        // {
+        //     name: 'footerthree',
+        //     title: 'Third Hero Footer',
+        //     type: 'string',
+        //     description: 'The three most important or highest draw points about your business to your customers',
+        // },
     ],
     preview: {
       select: {

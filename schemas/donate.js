@@ -1,4 +1,4 @@
-import { IoLogoMarkdown as icon } from 'react-icons/io';
+import { FaDollarSign as icon } from 'react-icons/fa';
 
 export default {
   name: 'donate',

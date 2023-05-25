@@ -1,4 +1,4 @@
-import { IoLogoMarkdown as icon } from 'react-icons/io';
+import { IoShareSocialOutline as icon } from 'react-icons/io';
 
 export default {
   name: 'social',
