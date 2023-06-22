@@ -1,4 +1,4 @@
-import { IoShareSocialOutline as icon } from 'react-icons/io';
+import { TbSocial as icon } from 'react-icons/tb';
 
 export default {
   name: 'social',

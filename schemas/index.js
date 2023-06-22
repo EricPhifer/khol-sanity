@@ -5,9 +5,10 @@ import hero from "./hero";
 import about from "./about";
 import social from "./social";
 import donate from "./donate";
+import members from "./members";
 import partners from "./partners";
-import testimonials from "./testimonials";
 import pastevents from "./pastevents";
+import testimonials from "./testimonials";
 // Privacy and Terms
 import privacypolicy from "./privacypolicy";
 import termsconditions from "./termsconditions";
@@ -23,6 +24,7 @@ export const schemaTypes = [
     social,
     donate,
     partners,
+    members,
     testimonials,
     pastevents,
     // Privacy and Terms
