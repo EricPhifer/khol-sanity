@@ -1,8 +1,8 @@
-import { MdHandshake as icon } from 'react-icons/md';
+import { FiUsers as icon } from 'react-icons/fi';
 
 export default {
-    name: 'partners',
-    title: 'Our Partners',
+    name: 'members',
+    title: 'Board Members',
     type: 'document',
     icon,
     fields: [
