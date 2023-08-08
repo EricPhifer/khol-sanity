@@ -4,7 +4,6 @@ import navigation from "./navigation";
 import hero from "./hero";
 import about from "./about";
 import social from "./social";
-import donate from "./donate";
 import members from "./members";
 import partners from "./partners";
 import pastevents from "./pastevents";
@@ -22,7 +21,6 @@ export const schemaTypes = [
     hero,
     about,
     social,
-    donate,
     partners,
     members,
     testimonials,
