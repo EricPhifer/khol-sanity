@@ -27,9 +27,9 @@ export default {
           type: 'string',
         },
         {
-          name: 'source',
-          title: 'Credit to the Creator or Owner of the Image',
-          type: 'string',
+          name: 'date',
+          title: 'Date of Event (will automatically sort soonest to furthest)',
+          type: 'datetime',
         },
         { 
             name: 'content', 
