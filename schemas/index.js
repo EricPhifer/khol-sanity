@@ -3,6 +3,7 @@ import navigation from "./navigation";
 // Sections
 import hero from "./hero";
 import about from "./about";
+import flyers from "./flyers";
 import social from "./social";
 import members from "./members";
 import partners from "./partners";
@@ -12,7 +13,7 @@ import testimonials from "./testimonials";
 import privacypolicy from "./privacypolicy";
 import termsconditions from "./termsconditions";
 // Components
-import PageLinks from "../components/PageLinks"
+import PageLinks from "../components/PageLinks";
 
 export const schemaTypes = [
     // Navigation
@@ -21,8 +22,9 @@ export const schemaTypes = [
     hero,
     about,
     social,
-    partners,
+    flyers,
     members,
+    partners,
     testimonials,
     pastevents,
     // Privacy and Terms
