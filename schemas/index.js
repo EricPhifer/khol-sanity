@@ -8,6 +8,7 @@ import social from "./social";
 import members from "./members";
 import partners from "./partners";
 import pastevents from "./pastevents";
+import eventgallery from "./eventgallery";
 import testimonials from "./testimonials";
 // Privacy and Terms
 import privacypolicy from "./privacypolicy";
@@ -25,8 +26,9 @@ export const schemaTypes = [
     flyers,
     members,
     partners,
-    testimonials,
     pastevents,
+    eventgallery,
+    testimonials,
     // Privacy and Terms
     privacypolicy,
     termsconditions,
