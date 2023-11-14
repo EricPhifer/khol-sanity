@@ -1,4 +1,4 @@
-import { MdHandshake as icon } from 'react-icons/md';
+import { BiCarousel as icon } from 'react-icons/bi';
 
 export default {
     name: 'eventgallery',
