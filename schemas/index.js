@@ -3,8 +3,9 @@ import navigation from "./navigation";
 // Sections
 import hero from "./hero";
 import about from "./about";
-import flyers from "./flyers";
+import banner from "./banner";
 import social from "./social";
+import flyers from "./flyers";
 import members from "./members";
 import partners from "./partners";
 import pastevents from "./pastevents";
@@ -22,6 +23,7 @@ export const schemaTypes = [
     // Sections
     hero,
     about,
+    banner,
     social,
     flyers,
     members,
